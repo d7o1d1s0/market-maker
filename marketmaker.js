@@ -7,6 +7,11 @@ import fs from 'fs';
 
 dotenv.config();
 
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Our app is running on port ${ PORT }`);
+});
+
 // Globals
 const PRICE_FEEDS = {};
 const OPEN_ORDERS = {};
@@ -14,14 +19,8 @@ const NONCES = {};
 let ACCOUNT_STATE = null;
 
 // Load MM config
-let MM_CONFIG;
-if (process.env.MM_CONFIG) {
-    MM_CONFIG = JSON.parse(process.env.MM_CONFIG);
-}
-else {
-    const mmConfigFile = fs.readFileSync("config.json", "utf8");
-    MM_CONFIG = JSON.parse(mmConfigFile);
-}
+let MM_CONFIG = JSON.parse(process.env.MM_CONFIG);
+
 let activePairs = [];
 for (let marketId in MM_CONFIG.pairs) {
     const pair = MM_CONFIG.pairs[marketId];
