@@ -2,11 +2,11 @@
 node_modules/
 config.json
 config/
-allpairs
-configexample
-cryptowatch.js
-findNewPairs.js
-getAllMarketsZKSync.sh
-newPairs.json
-pairs.json
-parseMarkets.js
+# allpairs
+# configexample
+# cryptowatch.js
+# findNewPairs.js
+# getAllMarketsZKSync.sh
+# newPairs.json
+# pairs.json
+# parseMarkets.js
