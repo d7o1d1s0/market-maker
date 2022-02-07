@@ -1,0 +1,226 @@
+[
+  {
+    "pair": "ETH-FRAX",
+    "apiQuery": "ETHFRAX"
+  },
+  {
+    "pair": "ETH-USDC",
+    "apiQuery": "ETHUSDC"
+  },
+  {
+    "pair": "ETH-USDT",
+    "apiQuery": "ETHUSDT"
+  },
+  {
+    "pair": "USDC-USDT",
+    "apiQuery": "USDCUSDT"
+  },
+  {
+    "pair": "DAI-USDT",
+    "apiQuery": "DAIUSDT"
+  },
+  {
+    "pair": "DAI-USDC",
+    "apiQuery": "DAIUSDC"
+  },
+  {
+    "pair": "ETH-WBTC",
+    "apiQuery": "ETHWBTC"
+  },
+  {
+    "pair": "WETH-ETH",
+    "apiQuery": "WETHETH"
+  },
+  {
+    "pair": "WBTC-DAI",
+    "apiQuery": "WBTCDAI"
+  },
+  {
+    "pair": "WBTC-USDC",
+    "apiQuery": "WBTCUSDC"
+  },
+  {
+    "pair": "WBTC-USDT",
+    "apiQuery": "WBTCUSDT"
+  },
+  {
+    "pair": "ETH-DAI",
+    "apiQuery": "ETHDAI"
+  },
+  {
+    "pair": "LINK-USDC",
+    "apiQuery": "LINKUSDC"
+  },
+  {
+    "pair": "ETH-STORJ",
+    "apiQuery": "ETHSTORJ"
+  },
+  {
+    "pair": "YFI-USDC",
+    "apiQuery": "YFIUSDC"
+  },
+  {
+    "pair": "LUNA-USDC",
+    "apiQuery": "LUNAUSDC"
+  },
+  {
+    "pair": "UST-USDC",
+    "apiQuery": "USTUSDC"
+  },
+  {
+    "pair": "UNI-USDC",
+    "apiQuery": "UNIUSDC"
+  },
+  {
+    "pair": "AAVE-USDC",
+    "apiQuery": "AAVEUSDC"
+  },
+  {
+    "pair": "FTM-USDC",
+    "apiQuery": "FTMUSDC"
+  },
+  {
+    "pair": "SOL-USDC",
+    "apiQuery": "SOLUSDC"
+  },
+  {
+    "pair": "MATIC-USDC",
+    "apiQuery": "MATICUSDC"
+  },
+  {
+    "pair": "BUSD-USDC",
+    "apiQuery": "BUSDUSDC"
+  },
+  {
+    "pair": "FRAX-USDC",
+    "apiQuery": "FRAXUSDC"
+  },
+  {
+    "pair": "FRAX-USDT",
+    "apiQuery": "FRAXUSDT"
+  },
+  {
+    "pair": "DYDX-USDC",
+    "apiQuery": "DYDXUSDC"
+  },
+  {
+    "pair": "ETH-UST",
+    "apiQuery": "ETHUST"
+  },
+  {
+    "pair": "LUNA-UST",
+    "apiQuery": "LUNAUST"
+  },
+  {
+    "pair": "DYDX-ETH",
+    "apiQuery": "DYDXETH"
+  },
+  {
+    "pair": "COMP-ETH",
+    "apiQuery": "COMPETH"
+  },
+  {
+    "pair": "MKR-ETH",
+    "apiQuery": "MKRETH"
+  },
+  {
+    "pair": "ENS-USDT",
+    "apiQuery": "ENSUSDT"
+  },
+  {
+    "pair": "AVAX-ETH",
+    "apiQuery": "AVAXETH"
+  },
+  {
+    "pair": "METIS-ETH",
+    "apiQuery": "METISETH"
+  },
+  {
+    "pair": "KEEP-ETH",
+    "apiQuery": "KEEPETH"
+  },
+  {
+    "pair": "FXS-ETH",
+    "apiQuery": "FXSETH"
+  },
+  {
+    "pair": "SHIB-USDT",
+    "apiQuery": "SHIBUSDT"
+  },
+  {
+    "pair": "SHIB-USDC",
+    "apiQuery": "SHIBUSDC"
+  },
+  {
+    "pair": "ETH-VERI",
+    "apiQuery": "ETHVERI"
+  },
+  {
+    "pair": "LOOKS-USDC",
+    "apiQuery": "LOOKSUSDC"
+  },
+  {
+    "pair": "MKR-USDT",
+    "apiQuery": "MKRUSDT"
+  },
+  {
+    "pair": "COMP-USDT",
+    "apiQuery": "COMPUSDT"
+  },
+  {
+    "pair": "KEEP-USDT",
+    "apiQuery": "KEEPUSDT"
+  },
+  {
+    "pair": "METIS-USDT",
+    "apiQuery": "METISUSDT"
+  },
+  {
+    "pair": "AVAX-USDT",
+    "apiQuery": "AVAXUSDT"
+  },
+  {
+    "pair": "WBTC-UST",
+    "apiQuery": "WBTCUST"
+  },
+  {
+    "pair": "STORJ-ETH",
+    "apiQuery": "STORJETH"
+  },
+  {
+    "pair": "LINK-ETH",
+    "apiQuery": "LINKETH"
+  },
+  {
+    "pair": "LUNA-ETH",
+    "apiQuery": "LUNAETH"
+  },
+  {
+    "pair": "YFI-ETH",
+    "apiQuery": "YFIETH"
+  },
+  {
+    "pair": "LOOKS-ETH",
+    "apiQuery": "LOOKSETH"
+  },
+  {
+    "pair": "SOL-ETH",
+    "apiQuery": "SOLETH"
+  },
+  {
+    "pair": "FTM-ETH",
+    "apiQuery": "FTMETH"
+  },
+  {
+    "pair": "AAVE-ETH",
+    "apiQuery": "AAVEETH"
+  },
+  {
+    "pair": "MATIC-ETH",
+    "apiQuery": "MATICETH"
+  },
+  {
+    "pair": "UNI-ETH",
+    "apiQuery": "UNIETH"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "pair": "WETH-ETH",
+    "apiQuery": "WETHETH"
+  },
+  {
+    "pair": "ETH-STORJ",
+    "apiQuery": "ETHSTORJ"
+  },
+  {
+    "pair": "UST-USDC",
+    "apiQuery": "USTUSDC"
+  },
+  {
+    "pair": "BUSD-USDC",
+    "apiQuery": "BUSDUSDC"
+  },
+  {
+    "pair": "DYDX-USDC",
+    "apiQuery": "DYDXUSDC"
+  },
+  {
+    "pair": "ETH-VERI",
+    "apiQuery": "ETHVERI"
+  },
+  {
+    "pair": "LOOKS-USDC",
+    "apiQuery": "LOOKSUSDC"
+  },
+  {
+    "pair": "WBTC-UST",
+    "apiQuery": "WBTCUST"
+  }
+]
